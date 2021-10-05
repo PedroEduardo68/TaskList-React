@@ -1,0 +1,5 @@
+
+### Create TypeScript ###
+npx create-react-app todo --template typescript
+npm install styled-components
+npm install -D @types/styled-components
